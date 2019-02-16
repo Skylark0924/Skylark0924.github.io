@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Academic Paper Reading
+subtitle:   Notebook for Academic Papers
+date:       2019-02-16
+author:     Skylark
+header-img: img/mygirl1.png
+catalog: true
+tags:
+    - Academic Paper
+---
+
 # Deep Learning
 
 ### [Deep Learning](https://github.com/ZhengLi95/HumanLearning/blob/master/LEARNING/Deep%20learning.pdf)
