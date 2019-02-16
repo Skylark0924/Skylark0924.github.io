@@ -12,7 +12,7 @@ tags:
 
 # Deep Learning
 
-### [Deep Learning](https://github.com/ZhengLi95/HumanLearning/blob/master/LEARNING/Deep%20learning.pdf)
+### [Deep Learning](http://www.junjialiulzhm.xyz/paper/Deep%20learning.pdf)
 
 > Yann LeCun, Yoshua Bengio & Geoffrey Hinton
 
