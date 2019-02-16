@@ -53,6 +53,11 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
+# TOC in the Sidebar
+toc:
+  enable: true
+  # Automatically add list number to toc.
+  number: false
 
 
 # 评论系统
