@@ -1,3 +1,5 @@
+## Decouple
+
 ### [A Robust Static Decoupling Algorithm for 3-Axis Force Sensors Based on Coupling Error Model and $\epsilon$-SVR](.\reference\sensors-12-14537.pdf)
 
 > Instead of regarding the whole system as a black box in conventional algorithm, the coupling error model is designed by the principle of coupling errors, in which the nonlinear relationships between forces and coupling errors in each dimension are calculated separately. Six separate **Support Vector Regressions (SVRs)** are employed for their ability to perform adaptive, nonlinear data ﬁtting. 
@@ -24,3 +26,27 @@
 1. 最小二乘支持向量机
 2. As one kind of Support Vector Machine, LS-SVM algorithm’s loss function is quadratic term of error.
 
+
+
+
+
+## Incremental Learning
+
+### Paper
+
+1. Kuncheva提出了对增量学习的普遍接受的定义([Learn++: An incremental learning algorithm for supervised neural networks](./reference/10.1.1.16.1297.pdf))
+
+   - 可以学习新的信息中的有用信息
+
+   - 不需要访问已经用于训练分类器的原始数据
+
+   - 对已经学习的知识具有记忆功能(避免灾难性遗忘)
+
+   - 在面对新数据中包含的新类别时，可以有效地进行处理
+
+     ![1555587160280](1555587160280.png)
+
+2. 将增量学习应用到不同领域
+
+   - [Incremental learning for robust visual tracking](./reference/Incremental_learning_for_robust_visual_t.pdf)
+   - [Incremental learning with support vector machines](./reference/10.1.1.95.8001.pdf)
