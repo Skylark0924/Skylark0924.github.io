@@ -289,7 +289,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Liu]
-  first_name: [Junjia, J.]
+  first_name: [Junjia, J., J]
 
   style: apa
   locale: en
