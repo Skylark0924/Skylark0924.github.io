@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 3rd year Ph.D. student at The Chinese University of Hong Kong (CUHK). I received an academic master degree from Shanghai Jiao Tong University (SJTU). My work lies in the intersection between robotics and AI, with a focus on reinforcement learning for motion control of humanoid robots. I was previously an intern at Huawei 2012 Lab.
+I'm a 3rd year Ph.D. student at The Chinese University of Hong Kong (CUHK). I received an academic master degree from Shanghai Jiao Tong University (SJTU). My work lies in the intersection between **Robotics** and **AI**, with a focus on **human-level domestic service manipulation skill for humanoid robots**. I was previously an intern at Huawei 2012 Lab.
