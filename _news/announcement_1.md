@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Rofunc v0.0.2.6 is released with plenty of robots skill learning examples! :sparkles: :rocket:
-date: 2024-01-24 
+title: Rofunc v0.0.2.6 is released with plenty of robot skill learning examples!
+date: 2024-01-24 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Rofunc v0.0.2.6 is released with plenty of robots skill learning examples! :sparkles: :rocket:
+Rofunc v0.0.2.6 is released with plenty of robot skill learning examples! :sparkles: :rocket:
 
 ---
 
