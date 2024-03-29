@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Skylark0924
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Rofunc
+  - Rofunc-ros
+  - Machine-Learning-is-ALL-You-Need
+  - Reinforcement-Learning-in-Robotics

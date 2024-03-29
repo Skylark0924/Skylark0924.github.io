@@ -5,21 +5,21 @@
 title: Junjia LIU's website # the website title (if blank, full name will be used instead)
 first_name: Junjia
 middle_name: 
-last_name: LIU        
-email: jjliu@mae.cuhk.edu.hk  
+last_name: LIU
+email: jjliu@mae.cuhk.edu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Robotics, Embodied AI, Humanoid Robots # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://skylark0924.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -27,8 +27,8 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: ambient_gradient # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: gruvbox # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -73,7 +73,7 @@ x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: b55s_oMAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
