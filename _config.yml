@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Junjia LIU's website # the website title (if blank, full name will be used instead)
+title: Junjia LIU # the website title (if blank, full name will be used instead)
 first_name: Junjia
 middle_name: 
 last_name: LIU
@@ -27,7 +27,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: ambient_gradient # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default_repocard # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: gruvbox # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
