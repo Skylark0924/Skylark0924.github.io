@@ -6,12 +6,12 @@ inline: false
 related_posts: false
 ---
 
-Rofunc v0.0.2.6 is released with plenty of robot skill learning examples! :sparkles: :rocket:
+Rofunc v0.0.2.6 is released with plenty of robots skill learning examples! :sparkles: :rocket:
 
 ---
 
 
-![](doc/img/logo8.png)
+![](assets/img/doc/img/logo8.png)
 
 # Rofunc: The Full Process Python Package for Robot Learning from Demonstration and Robot Manipulation
 
@@ -27,7 +27,7 @@ Rofunc v0.0.2.6 is released with plenty of robot skill learning examples! :spark
 > **Documentation: https://rofunc.readthedocs.io/**
 
 
-<img src="doc/img/task_gif3/CURIQbSoftHandSynergyGraspSpatulaRofuncRLPPO.gif" width=25% /><img src="doc/img/task_gif3/CURIQbSoftHandSynergyGraspPower_drillRofuncRLPPO.gif" width=25% /><img src="doc/img/task_gif3/CURIQbSoftHandSynergyGraspPhillips_Screw_DriverRofuncRLPPO.gif" width=25% /><img src="doc/img/task_gif3/CURIQbSoftHandSynergyGraspLarge_clampRofuncRLPPO.gif" width=25% />
-<img src="doc/img/task_gif3/HumanoidFlipRofuncRLAMP.gif" width=33.3% /><img src="doc/img/task_gif3/HumanoidDanceRofuncRLAMP.gif" width=33.3% /><img src="doc/img/task_gif3/HumanoidRunRofuncRLAMP.gif" width=33.3% />
-<img src="doc/img/task_gif3/HumanoidASEHeadingSwordShieldRofuncRLASE.gif" width=33.3% /><img src="doc/img/task_gif3/HumanoidASEStrikeSwordShieldRofuncRLASE.gif" width=33.3% /><img src="doc/img/task_gif3/HumanoidASELocationSwordShieldRofuncRLASE.gif" width=33.3% />
-<img src="doc/img/task_gif3/BiShadowHandLiftUnderarmRofuncRLPPO.gif" width=33.3% /><img src="doc/img/task_gif3/BiShadowHandDoorOpenOutwardRofuncRLPPO.gif" width=33.3% /><img src="doc/img/task_gif3/BiShadowHandSwingCupRofuncRLPPO.gif" width=33.3% />
+<img src="assets/img/doc/img/task_gif3/CURIQbSoftHandSynergyGraspSpatulaRofuncRLPPO.gif" width=25% /><img src="assets/img/doc/img/task_gif3/CURIQbSoftHandSynergyGraspPower_drillRofuncRLPPO.gif" width=25% /><img src="assets/img/doc/img/task_gif3/CURIQbSoftHandSynergyGraspPhillips_Screw_DriverRofuncRLPPO.gif" width=25% /><img src="assets/img/doc/img/task_gif3/CURIQbSoftHandSynergyGraspLarge_clampRofuncRLPPO.gif" width=25% />
+<img src="assets/img/doc/img/task_gif3/HumanoidFlipRofuncRLAMP.gif" width=33.3% /><img src="assets/img/doc/img/task_gif3/HumanoidDanceRofuncRLAMP.gif" width=33.3% /><img src="assets/img/doc/img/task_gif3/HumanoidRunRofuncRLAMP.gif" width=33.3% />
+<img src="assets/img/doc/img/task_gif3/HumanoidASEHeadingSwordShieldRofuncRLASE.gif" width=33.3% /><img src="assets/img/doc/img/task_gif3/HumanoidASEStrikeSwordShieldRofuncRLASE.gif" width=33.3% /><img src="assets/img/doc/img/task_gif3/HumanoidASELocationSwordShieldRofuncRLASE.gif" width=33.3% />
+<img src="assets/img/doc/img/task_gif3/BiShadowHandLiftUnderarmRofuncRLPPO.gif" width=33.3% /><img src="assets/img/doc/img/task_gif3/BiShadowHandDoorOpenOutwardRofuncRLPPO.gif" width=33.3% /><img src="assets/img/doc/img/task_gif3/BiShadowHandSwingCupRofuncRLPPO.gif" width=33.3% />
