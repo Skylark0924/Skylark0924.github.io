@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Junjia LIU # the website title (if blank, full name will be used instead)
+title: Junjia LIU 刘浚嘉 # the website title (if blank, full name will be used instead)
 first_name: Junjia
 middle_name: 
 last_name: LIU
@@ -129,7 +129,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -160,12 +160,12 @@ external_sources:
   # - name: Junjia Liu (Zhihu)
   #   rss_url: https://rsshub.app/zhihu/people/activities/JunjiaLiu
   - name: Rofunc (Zhihu)
-    rss_url: https://rsshub.app/zhihu/xhu/zhuanlan/c_1565772452604702720
+    rss_url: https://rsshub.app/zhihu/xhu/zhuanlan/c_1565772452604702720?brief=100
   - name: RL in Robotics (Zhihu)
-    rss_url: https://rsshub.app/zhihu/xhu/zhuanlan/c_1188392852261134336
+    rss_url: https://rsshub.app/zhihu/xhu/zhuanlan/c_1188392852261134336?brief=100
   
 
-# -----------------------------------------------------------------------------
+# ------------------------------------------------ -----------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
