@@ -9,12 +9,21 @@
   "education": [
     {
       "institution": "The Chinese University of Hong Kong",
-      "location": "Hong Kong",
+      "location": "Hong Kong SAR, China",
       "url": "https://www.cuhk.edu.hk/english/",
       "area": "Mechanical and Automation Engineering",
       "studyType": "PhD",
       "startDate": "2021-08-01",
       "endDate": "2025-07-01"
+    },
+    {
+      "institution": "Shanghai Jiao Tong University",
+      "location": "Shanghai, China",
+      "url": "https://www.sjtu.edu.cn/",
+      "area": "Mechanical Engineering",
+      "studyType": "Master",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-01"
     }
   ],
   "projects": [
