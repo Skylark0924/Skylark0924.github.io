@@ -7,8 +7,7 @@ first_name: Junjia
 middle_name: 
 last_name: LIU
 email: jjliu@mae.cuhk.edu.hk
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description:  # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: Robotics, Embodied AI, Humanoid Robots # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -156,10 +155,13 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  # - name: zhihu.com
-    # rss_url: https://www.zhihu.com/people/JunjiaLiu/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
+  - name: Rofunc (Zhihu)
+    rss_url: https://rss.lilydjwg.me/zhihuzhuanlan/c_1565772452604702720
+  - name: RL in Robotics (Zhihu)
+    rss_url: https://rss.lilydjwg.me/zhihuzhuanlan/c_1188392852261134336
+  
 
 # -----------------------------------------------------------------------------
 # Collections
