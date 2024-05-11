@@ -47,6 +47,18 @@ Rofunc v0.0.2.6 is released with plenty of robots skill learning examples! :spar
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/doc/img/task_gif3/CURICoffeeStirring.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/doc/img/task_gif3/CURIScrew.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/doc/img/task_gif3/CURITaichiPushingHand.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/doc/img/task_gif3/HumanoidFlipRofuncRLAMP.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
