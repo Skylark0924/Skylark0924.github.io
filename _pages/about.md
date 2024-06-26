@@ -6,7 +6,7 @@ subtitle: 人，诗意地栖居
 
 profile:
   align: right
-  image: me.jpg
+  image: me3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>The Chinese University of Hong Kong</p>
