@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Junjia LIU 刘浚嘉 # the website title (if blank, full name will be used instead)
+title: Dr. Junjia (Jonas) LIU 刘浚嘉 # the website title (if blank, full name will be used instead)
 first_name: Junjia
 middle_name: 
 last_name: LIU
@@ -120,7 +120,7 @@ bing_site_verification: 4645E5B1F806EC64838E5DCF72503936 # out your bing-site-ve
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Junjia LIU's blog # blog_name will be displayed in your blog page
+blog_name: Junjia (Jonas) LIU's blog # blog_name will be displayed in your blog page
 blog_description: 
 permalink: /blog/:year/:title/
 
